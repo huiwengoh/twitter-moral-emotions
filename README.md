@@ -13,4 +13,6 @@ We further investigated the relationship between message spread and its complexi
 We found that each additional moral emotional word increases retweet count by about 33%, while a unit increase in complexity produces only 1% decrease. 
 We also found an asymmetric effect of positive versus negative moral-emotional words on message spread.
 
-Watch [our presentation](https://youtu.be/H7XXMDkX9y8) at [Westchester Undergraduate Research Conference 2021](https://mercy.digication.com/westchester-undergraduate-research-conference-2021/welcome-to-wurc). 
+Check out our [poster](https://github.com/huiwengoh/twitter-moral-emotions/blob/a32928c6f7aa9bd12e107a2d395514268245d94e/Research%20Conference%20Poster.pdf) or watch our [presentation](https://youtu.be/H7XXMDkX9y8) at [Westchester Undergraduate Research Conference 2021](https://mercy.digication.com/westchester-undergraduate-research-conference-2021/welcome-to-wurc) to learn more. 
+
+![Research Conference Poster](https://user-images.githubusercontent.com/70731529/128486119-df7e0f0a-bff3-444f-882f-2475d7a9bde8.jpg)
