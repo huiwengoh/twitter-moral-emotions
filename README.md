@@ -1,9 +1,9 @@
-# Moral Emotions Drive Spread of Political Tweets
+## Moral Emotions Drive Spread of Political Tweets
 Exploring how the usage of moral emotional words shapes the diffusion of political content on social networks using NLP techniques. 
 
 *Authors:* Hui Wen Goh and Yara Kyrychenko.
 
-### Abstract: 
+### Abstract
 Ever since the 2016 US elections, we have been aware of how the spread of political ideas on social media can shape real-life outcomes. 
 Yet, we still do not understand precisely how and why some political ideas spread more widely than others. 
 In their 2017 paper, [Brady et al.](https://vanbavellab.hosting.nyu.edu/documents/Brady.etal.2017.PNAS.pdf) made one of the few groundbreaking discoveries on the topic. 
